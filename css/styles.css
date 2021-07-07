@@ -26,3 +26,85 @@ hr{
   border-width: 5px;
   width: 5%
 }
+
+
+.tron {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #00E2FF;
+   font-family: Times New Roman;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 1px;
+   background-color: #2136CA;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #FFFFFF;
+   border: solid #99C624 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.tron:hover {
+   background: #000000;
+   border: solid #0059A0 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+
+.Green3D {
+   background: #3DF670;
+   background-image: -webkit-linear-gradient(top, #3DF670, #0B5724);
+   background-image: -moz-linear-gradient(top, #3DF670, #0B5724);
+   background-image: -ms-linear-gradient(top, #3DF670, #0B5724);
+   background-image: -o-linear-gradient(top, #3DF670, #0B5724);
+   background-image: -webkit-gradient(to bottom, #3DF670, #0B5724);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 1px;
+   line-height: 1px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 88px;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 5px;
+   -webkit-box-shadow: 0 4px 0 2px #000000;
+   -moz-box-shadow: 0 4px 0 2px #000000;
+   box-shadow: 0 4px 0 2px #000000;
+   text-shadow: 1px 1px 5px #000000;
+   border: solid #0D772A 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Green3D:hover {
+   border: solid #0D772A 1px;
+   background: #0B5724;
+   background-image: -webkit-linear-gradient(top, #0B5724, #3DF670);
+   background-image: -moz-linear-gradient(top, #0B5724, #3DF670);
+   background-image: -ms-linear-gradient(top, #0B5724, #3DF670);
+   background-image: -o-linear-gradient(top, #0B5724, #3DF670);
+   background-image: -webkit-gradient(to bottom, #0B5724, #3DF670);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  padding: 20px;
+}
+
+.contact-me{
+  padding: 20px;
+}
