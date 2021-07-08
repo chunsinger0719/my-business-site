@@ -1,5 +1,5 @@
 body{
-  background-color: #B5EAEA;
+  background-color: #ff4301;
   font-size: 1em;
   font-family: Oswald,sans-serif;
   margin: 0;
@@ -146,6 +146,7 @@ hr{
 
 .bottom-container{
   padding: 20px;
+  background-color: #00EAD3;
 }
 
 .contact-me{
